@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "duration": 330,
+      "date": "1999-05-20"
+    },
+    {
+      "id": 2,
+      "name": "Enter Sandman",
+      "artist": "Metallica",
+      "duration": 331,
+      "date": "1991-07-29"
+    },
+    {
+      "id": 3,
+      "name": "Walk",
+      "artist": "Pantera",
+      "duration": 309,
+      "date": "1992-05-12"
+    },
+    {
+      "id": 4,
+      "name": "Du Hast",
+      "artist": "Rammstein",
+      "duration": 234,
+      "date": "1997-07-18"
+    },
+    {
+      "id": 5,
+      "name": "Fear of the Dark",
+      "artist": "Iron Maiden",
+      "duration": 438,
+      "date": "1992-05-11"
+    },
+    {
+      "id": 6,
+      "name": "Back in Black",
+      "artist": "AC/DC",
+      "duration": 255,
+      "date": "1980-07-25"
+    },
+    {
+      "id": 7,
+      "name": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "duration": 301,
+      "date": "1991-09-10"
+    },
+    {
+      "id": 8,
+      "name": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "duration": 356,
+      "date": "1987-08-21"
+    },
+    {
+      "id": 9,
+      "name": "Lose Yourself",
+      "artist": "Eminem",
+      "duration": 326,
+      "date": "2002-10-28"
+    },
+    {
+      "id": 10,
+      "name": "My Immortal",
+      "artist": "Evanescence",
+      "duration": 263,
+      "date": "2003-12-08"
+    }
+  ]
+  
